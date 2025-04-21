@@ -7,3 +7,7 @@ Tableau Dashboard
 
 Excel Dasboard
 ![Image](https://github.com/user-attachments/assets/bc8937e2-e24b-47fc-8376-a3a118ff1e17)
+
+
+PowerBi Dashboard
+![Image](https://github.com/user-attachments/assets/29267405-b893-4656-9a98-0a8d118eb052)
