@@ -15,29 +15,29 @@ PowerBi Dashboard
 
 # Project Summary :
 1.	Average Attrition Rate by Department:
-o	Attrition rates are fairly distributed across departments, with Research & Development, Sales, and Software having 17% attrition, while Hardware and Support have slightly lower rates (16% each).
+	Attrition rates are fairly distributed across departments, with Research & Development, Sales, and Software having 17% attrition, while Hardware and Support have slightly lower rates (16% each).
 2.	Average Working Years per Department:
-o	Employees in Research & Development have the longest tenure on average, whereas departments like Human Resources and Support have comparatively shorter tenures.
+	Employees in Research & Development have the longest tenure on average, whereas departments like Human Resources and Support have comparatively shorter tenures.
 3.	Job Role vs Work-Life Balance:
-o	Work-life balance scores remain relatively consistent across job roles, ranging from approximately 2.44 to 2.52, suggesting slight variations but no extreme deviations.
+	Work-life balance scores remain relatively consistent across job roles, ranging from approximately 2.44 to 2.52, suggesting slight variations but no extreme deviations.
 4.	Attrition Rate vs Monthly Income:
-o	Attrition is higher for employees earning lower monthly incomes, indicating a potential correlation between income level and employee retention.
+	Attrition is higher for employees earning lower monthly incomes, indicating a potential correlation between income level and employee retention.
 5.	Average Hourly Rate vs Job Role:
-o	Job roles such as Research Scientist and Manager earn higher average hourly rates, while Sales Representatives and Developers earn slightly lower hourly rates.
+	Job roles such as Research Scientist and Manager earn higher average hourly rates, while Sales Representatives and Developers earn slightly lower hourly rates.
 6.	Attrition Rate vs Years Since Last Promotion:
-o	Employees with more recent promotions (lower years since promotion) have slightly higher attrition rates, which could indicate dissatisfaction despite recent promotions.
+	Employees with more recent promotions (lower years since promotion) have slightly higher attrition rates, which could indicate dissatisfaction despite recent promotions.
 ________________________________________
 # Key Insights:
 1.	Attrition Trends:
-o	Departments with higher attrition (like Research & Development and Sales) might need targeted retention strategies.
-o	Lower-income groups are more prone to attrition, suggesting financial incentives could improve retention.
+	Departments with higher attrition (like Research & Development and Sales) might need targeted retention strategies.
+	Lower-income groups are more prone to attrition, suggesting financial incentives could improve retention.
 2.	Work-Life Balance:
-o	Although generally consistent, certain job roles with slightly lower work-life balance scores (e.g., Developers) may require attention to improve employee satisfaction.
+	Although generally consistent, certain job roles with slightly lower work-life balance scores (e.g., Developers) may require attention to improve employee satisfaction.
 3.	Tenure Analysis:
-o	Longer average working years in Research & Development could indicate better career satisfaction or growth opportunities, whereas other departments may need improvements in engagement or career development.
+	Longer average working years in Research & Development could indicate better career satisfaction or growth opportunities, whereas other departments may need improvements in engagement or career development.
 4.	Compensation Impact:
-o	There’s a notable link between higher income or hourly rates and job roles, which influences attrition. For example, Sales Representatives earning lower hourly rates could face higher turnover risks.
+	There’s a notable link between higher income or hourly rates and job roles, which influences attrition. For example, Sales Representatives earning lower hourly rates could face higher turnover risks.
 5.	Promotion Dynamics:
-o	Attrition being high for employees with fewer years since the last promotion might suggest that promotions alone do not guarantee retention—factors like job role satisfaction and workload must also be considered.
+	Attrition being high for employees with fewer years since the last promotion might suggest that promotions alone do not guarantee retention—factors like job role satisfaction and workload must also be considered.
 
 
